@@ -1,0 +1,152 @@
+[
+  {
+    "id": "serum-vitamina-c-glowlab",
+    "name": "Sérum Facial Vitamina C 15%",
+    "brand": "GlowLab Dermocosméticos",
+    "productType": "fisico",
+    "niches": [
+      "cosmeticos",
+      "cuidados-pessoais"
+    ],
+    "preferredChannels": [
+      "instagram",
+      "tiktok",
+      "youtube"
+    ],
+    "recommendedMaturities": [
+      "em-crescimento",
+      "recorrente"
+    ],
+    "ticketBrl": 119,
+    "commissionRate": 18,
+    "goal": "Gerar demonstrações de textura, rotina diurna e prova de uso contínuo com cupom rastreável.",
+    "complianceAlert": "Proibido prometer clareamento clínico ou cura de melasma; exigir identificação #publi e uso cosmético.",
+    "description": "Produto físico de recompra rápida com foco em rotina de skincare acessível e demonstração visual."
+  },
+  {
+    "id": "creatina-ultrafit-300g",
+    "name": "Creatina Monohidratada Pura 300g",
+    "brand": "UltraFit Nutrição",
+    "productType": "fisico",
+    "niches": [
+      "suplementos",
+      "fitness"
+    ],
+    "preferredChannels": [
+      "tiktok",
+      "instagram",
+      "youtube"
+    ],
+    "recommendedMaturities": [
+      "iniciante",
+      "em-crescimento",
+      "recorrente"
+    ],
+    "ticketBrl": 98,
+    "commissionRate": 15,
+    "goal": "Escalar vendas recorrentes entre praticantes de treino com conteúdo educativo sobre dosagem e pureza.",
+    "complianceAlert": "Não fazer alegações terapêuticas ou prometer ganho muscular garantido; respeitar limites da ANVISA.",
+    "description": "Suplemento de alta recorrência com laudo técnico e forte apelo em comparativos de custo por dose."
+  },
+  {
+    "id": "formacao-produtividade-ia",
+    "name": "Formação Produtividade & IA na Prática",
+    "brand": "Escola Fluxo Digital",
+    "productType": "digital",
+    "niches": [
+      "cursos",
+      "produtividade",
+      "tech"
+    ],
+    "preferredChannels": [
+      "youtube",
+      "blog",
+      "comunidades",
+      "instagram"
+    ],
+    "recommendedMaturities": [
+      "em-crescimento",
+      "recorrente"
+    ],
+    "ticketBrl": 297,
+    "commissionRate": 35,
+    "goal": "Converter profissionais buscando automação de rotina com aulas demonstrativas e estudos de caso reais.",
+    "complianceAlert": "Vedado prometer renda extra garantida ou enriquecimento rápido; alto cuidado para evitar estornos.",
+    "description": "Curso digital com 7 dias de garantia incondicional e alta sensibilidade à expectativa gerada no pré-venda."
+  },
+  {
+    "id": "flowdesk-crm-autonomos",
+    "name": "FlowDesk CRM para Autônomos e PMEs",
+    "brand": "FlowDesk SaaS",
+    "productType": "digital",
+    "niches": [
+      "softwares",
+      "produtividade",
+      "tech"
+    ],
+    "preferredChannels": [
+      "youtube",
+      "blog",
+      "comunidades",
+      "trafego-pago"
+    ],
+    "recommendedMaturities": [
+      "em-crescimento",
+      "recorrente"
+    ],
+    "ticketBrl": 89,
+    "commissionRate": 25,
+    "goal": "Atrair assinantes em teste gratuito por meio de tutoriais práticos, templates e comparativos de ferramentas.",
+    "complianceAlert": "Deixar claro planos gratuitos vs. pagos e regras de cancelamento para reduzir chargeback na renovação.",
+    "description": "Software B2B/prosumer com comissão recorrente por assinatura ativa via link rastreável."
+  },
+  {
+    "id": "capsula-essential-wear",
+    "name": "Coleção Cápsula Essential Wear",
+    "brand": "Ateliê Urbano",
+    "productType": "fisico",
+    "niches": [
+      "moda",
+      "acessorios"
+    ],
+    "preferredChannels": [
+      "instagram",
+      "tiktok",
+      "comunidades"
+    ],
+    "recommendedMaturities": [
+      "iniciante",
+      "em-crescimento",
+      "recorrente"
+    ],
+    "ticketBrl": 189,
+    "commissionRate": 14,
+    "goal": "Impulsionar combinações de guarda-roupa versátil com provador real, tabela de medidas e caimento.",
+    "complianceAlert": "Informar corretamente tecido, modelagem e política de troca para evitar devoluções por tamanho.",
+    "description": "Moda básica premium com foco em versatilidade, vídeo curto de provador e baixa taxa de devolução."
+  },
+  {
+    "id": "kit-cronograma-capilar-pro",
+    "name": "Kit Cronograma Capilar Botânico",
+    "brand": "Raiz Viva",
+    "productType": "fisico",
+    "niches": [
+      "cuidados-pessoais",
+      "cosmeticos"
+    ],
+    "preferredChannels": [
+      "tiktok",
+      "instagram",
+      "comunidades"
+    ],
+    "recommendedMaturities": [
+      "iniciante",
+      "em-crescimento"
+    ],
+    "ticketBrl": 149,
+    "commissionRate": 20,
+    "goal": "Ativar micro-creators com alta proximidade de comunidade para demonstrar etapas de hidratação e nutrição.",
+    "complianceAlert": "Sinalizar parceria paga (#publi) e diferenciar resultado estético de tratamento dermatológico.",
+    "description": "Kit de cuidados pessoais com margem atrativa para creators em crescimento e comunidades de autocuidado."
+  }
+]

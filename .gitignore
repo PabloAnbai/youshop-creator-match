@@ -1,0 +1,23 @@
+# referência privada do Kaiky, não versionar
+kaiky/
+
+# cache bruto das APIs (reproduzível com collect.py) e logs
+data/raw/
+data/*.log
+
+# database: published as a GitHub Release (python pipeline/collect.py fetch-db)
+data/*.db
+data/*.gz
+data/*.part
+
+# segredos
+.env
+*.key
+
+__pycache__/
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+
+# vínculo local com a Vercel
+.vercel
